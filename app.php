@@ -69,8 +69,7 @@ function nav()
     global $signin;
     global $conn;
     //db
-    $conn = mysqli_connect('sql109.unaux.com', 'unaux_29312107', '2jjze9b28', 'unaux_29312107_pkm');
-//$conn=mysqli_connect('localhost','root','','dbpkm');
+    $conn=mysqli_connect('localhost','root','','dbpkm');
     session_start();
     if (!isset($_SESSION['id'])) {
         echo '<div id="preloader">
