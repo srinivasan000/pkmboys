@@ -4,7 +4,7 @@
 # PHP CRUD project  
    creat,read, update , delete<hr>
 
-[Website demo](https://pkmboys.unaux.com)
+[Website demo](http://pkmboys.unaux.com "website demo")
 ===
 
 ## [Facebook page](https://m.facebook.com/00srinivasan00/?__tn__=C-R "fb")
